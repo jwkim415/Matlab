@@ -1,7 +1,5 @@
 %{
   Jungwon Kim
-  Homework 1
-  Exercise 1
 %}
 MassOfTheFirstObject = input ('Enter The mass of the first object: '); %mass is in kilogram
 MassOfTheSecondObject = input ('Enter The mass of the second object: '); %mass is in kilogram
